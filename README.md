@@ -2,6 +2,8 @@
 
 A simple pair game created with Flutter.
 
+Article on Medium here: 
+https://medium.com/@frmineoapps/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1
 
 ## Screenshots
 ![Screenshot](screenshots/1.gif?s=150)
